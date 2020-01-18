@@ -1,6 +1,6 @@
 # Forkify
 
-Food Recipe Application with Shopping cart using external API.
+Food Recipe Search Application with Shopping cart using external API.
 
 This Application fetches data from an external API, then displays them using DOM Manipulation and JavaScript. 
 
