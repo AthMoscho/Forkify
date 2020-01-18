@@ -17,6 +17,6 @@ From there you can select the servings you need, add them to the 'virtual' shopp
 You can always update the quantities in the shopping cart later if you need more.
 
 <p align="center">
-  <img width="auto" height="auto" src="https://i.ibb.co/3YdJgmy/fork.png">
+  <img width="auto" height="auto" src="https://i.ibb.co/MBWm6qR/fork.png">
 </p>
 
