@@ -6,7 +6,7 @@ This Application fetches data from an external API, then displays them using DOM
 
 Deployed using WebPack and Babel.
 
-# How to use it
+# How to use:
 
 Enter your food that your are looking for at the top (like 'pizza' or 'salad' etc)
 
